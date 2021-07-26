@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30523.141
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ZiaMall", "ZiaMall.csproj", "{0E636F67-820E-4471-A118-8A0B090DF121}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Core", "..\Core\Core.csproj", "{6949564E-8139-42FD-A9BB-DB8D87CC7D26}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataCore", "..\DataCore\DataCore.csproj", "{0F669500-F230-4076-9BB5-14E76883985D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0E636F67-820E-4471-A118-8A0B090DF121}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0E636F67-820E-4471-A118-8A0B090DF121}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0E636F67-820E-4471-A118-8A0B090DF121}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0E636F67-820E-4471-A118-8A0B090DF121}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6949564E-8139-42FD-A9BB-DB8D87CC7D26}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6949564E-8139-42FD-A9BB-DB8D87CC7D26}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6949564E-8139-42FD-A9BB-DB8D87CC7D26}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6949564E-8139-42FD-A9BB-DB8D87CC7D26}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0F669500-F230-4076-9BB5-14E76883985D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0F669500-F230-4076-9BB5-14E76883985D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0F669500-F230-4076-9BB5-14E76883985D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0F669500-F230-4076-9BB5-14E76883985D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EC177A21-256A-42F0-A14E-45C96F2973BB}
+	EndGlobalSection
+EndGlobal
